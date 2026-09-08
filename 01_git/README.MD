@@ -6,7 +6,7 @@ GIT is the most common control version systems
 
 Add your name below and commit using tutorial https://www.w3schools.com/git/ <br />
 1. Grygorii Mazur
-
+2. Valentin Yefremov KI-41 Go
 # Additional info
 https://ohmygit.org/
 https://git-school.github.io/visualizing-git/#upstream-changes
